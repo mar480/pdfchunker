@@ -19,3 +19,6 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+# Demo annual reports
+ars/
