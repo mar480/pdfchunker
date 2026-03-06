@@ -238,7 +238,7 @@ st.write(
 )
 
 chunk_size = st.number_input(
-    "Chunk size (pages)",
+    "Segment size (pages)",
     min_value=1,
     max_value=500,
     value=70,
